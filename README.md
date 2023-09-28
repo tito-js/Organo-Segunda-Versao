@@ -42,14 +42,14 @@ npm start
 ├── public
 ├── src
 │   ├── componentes
-│       ├── Banner
-│       ├── Botao
-│       ├── Campo
-│       ├── Colaborador
-│       ├── Formulario
-│       ├── ListaSuspensa
-│       ├── Rodape
-│       ├── Time
+│   │     ├── Banner
+│   │     ├── Botao
+│   │     ├── Campo
+│   │     ├── Colaborador
+│   │     ├── Formulario
+│   │     ├── ListaSuspensa
+│   │     ├── Rodape
+│   │     └── Time
 ├── App.js
 ├── index.css
 ├── index.js
