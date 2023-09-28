@@ -1,4 +1,4 @@
-# Tito - Organo 2.o
+# Tito - Organo 2.0
 
 ## Introdução
 
